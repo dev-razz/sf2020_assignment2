@@ -91,6 +91,7 @@ body {
 .top {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
     margin: 0 129px;
     padding: 0 15px;
 }
@@ -117,7 +118,6 @@ body {
 .form {
     background-color: white;
     padding: 30px;
-    margin: 0 15px;
     border: white 0px solid;
     border-radius: 5px;
 }
